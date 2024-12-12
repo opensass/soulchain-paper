@@ -32,6 +32,14 @@ SoulChain also empowers users through its decentralized governance model, enable
 
 Another critical benefit of blockchain technology is its immutability. Once data is recorded on the blockchain, it cannot be altered, ensuring that all platform transactions and decisions are transparent and trustworthy. This allows users to audit matchmaking algorithms, platform updates, and governance decisions, ensuring fairness and accountability. Traditional dating platforms, by contrast, operate as black boxes, providing no visibility into how their systems work or how decisions are made [^13].
 
+## Explainable AI (XAI)
+
+SoulChain's matchmaking system incorporates Explainable AI (XAI), a groundbreaking approach to artificial intelligence that prioritizes transparency and interpretability. Traditional AI systems often function as "black boxes", making decisions without offering users any insight into how they were reached. This opacity can lead to frustration and mistrust, particularly in a context as personal as online dating [^14].
+
+By using XAI, SoulChain ensures that users can understand the factors behind their matchmaking recommendations. For instance, users can see how shared interests, values, personality traits, and preferences influenced a particular match. This transparency not only builds trust but also allows users to feel more in control of their dating experience. Additionally, XAI helps identify and eliminate biases in the matchmaking process, ensuring fair treatment for all users regardless of background or identity [^15].
+
+Inclusivity is a core principle of SoulChain's design. Unlike traditional platforms that may inadvertently prioritize certain demographics or characteristics, SoulChain uses XAI to create an equitable and personalized experience for all. By providing detailed insights into the algorithm's decision-making process, SoulChain promotes accountability and ensures that the platform serves a diverse user base [^16].
+
 ## References
 
 [^1]: Allied Market Research. Online Dating Services Market Size, share, Competitive Landscape and Trend Analysis Report, by service, by subscription, by Demography: Global Opportunity Analysis and Industry Forecast, 2024-2033 . Allied Market Research. https://www.alliedmarketresearch.com/online-dating-services-market.
@@ -47,3 +55,6 @@ Another critical benefit of blockchain technology is its immutability. Once data
 [^11]: Hunt, James. 2023. What is decentralized data storage? . The Block. https://www.theblock.co/learn/251865/decentralization-and-data-storage-in-cryptocurrency.
 [^12]: Anon. How blockchain can enhance transparency, traceability and trust in procurement processes. https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2023/2023-09/how-blockchain-can-enhance-transparency-traceability-and-trust-in-procurement-processes.
 [^13]: Anon. Blockchain technology ensures transparency, verifiability and immutability. Control Design. https://www.controldesign.com/management/financials/article/33011663/blockchain-technology-ensures-transparency-verifiability-and-immutability.
+[^14]: Codewave. 2024. How explainable AI (XAI) busts the biases in algorithms & makes AI more transparent - Codewave Insights . Codewave Insights. https://codewave.com/insights/how-explainable-ai-xai-busts-the-biases-in-algorithms-makes-ai-more-transparent/.
+[^15]: Chandler, Simon. 2020. How explainable AI is helping algorithms avoid bias . Forbes, February 18. https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias.
+[^16]: Kumawat, Manish. 2024. Impacts of AI on dating app development services in 2025 . Fulminous Software. https://fulminoussoftware.com/ai-impact-on-dating-apps.
