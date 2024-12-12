@@ -40,6 +40,14 @@ By using XAI, SoulChain ensures that users can understand the factors behind the
 
 Inclusivity is a core principle of SoulChain's design. Unlike traditional platforms that may inadvertently prioritize certain demographics or characteristics, SoulChain uses XAI to create an equitable and personalized experience for all. By providing detailed insights into the algorithm's decision-making process, SoulChain promotes accountability and ensures that the platform serves a diverse user base [^16].
 
+## Data Sovereignty
+
+SoulChain places data sovereignty at the heart of its platform, ensuring that users have full control over their personal information. Unlike traditional apps that store user data on centralized servers, SoulChain uses the Solana blockchain to secure data in a decentralized manner. This approach eliminates reliance on third-party data brokers and ensures that only users with the proper private keys can access or share their information. This method provides exceptional security and privacy, addressing growing concerns among online daters [^17].
+
+Traditional platforms often exploit user data for advertising or resale, but SoulChain's blockchain-based model guarantees transparency. Users can decide how their data is shared, creating a more trust-based relationship between the platform and its users. A 2023 Pew Research Center survey highlighted that privacy concerns remain a top priority for many dating app users, making SoulChain's privacy-centric approach especially relevant [^19].
+
+By empowering users with full data control, SoulChain not only aligns with modern privacy expectations but also enhances trust and confidence in the platform.
+
 ## References
 
 [^1]: Allied Market Research. Online Dating Services Market Size, share, Competitive Landscape and Trend Analysis Report, by service, by subscription, by Demography: Global Opportunity Analysis and Industry Forecast, 2024-2033 . Allied Market Research. https://www.alliedmarketresearch.com/online-dating-services-market.
@@ -58,3 +66,6 @@ Inclusivity is a core principle of SoulChain's design. Unlike traditional platfo
 [^14]: Codewave. 2024. How explainable AI (XAI) busts the biases in algorithms & makes AI more transparent - Codewave Insights . Codewave Insights. https://codewave.com/insights/how-explainable-ai-xai-busts-the-biases-in-algorithms-makes-ai-more-transparent/.
 [^15]: Chandler, Simon. 2020. How explainable AI is helping algorithms avoid bias . Forbes, February 18. https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias.
 [^16]: Kumawat, Manish. 2024. Impacts of AI on dating app development services in 2025 . Fulminous Software. https://fulminoussoftware.com/ai-impact-on-dating-apps.
+[^17]: Anon. Data-Hungry dating apps are worse than ever for your privacy . Mozilla Foundation. https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy.
+[^18]: Writer, Staff. 2024. Swipe with Caution: The Privacy Risks of Dating Apps . MartechView. https://martechview.com/the-privacy-risks-of-dating-apps
+[^19]: Atske, Sara, and Sara Atske. 2024. From looking for love to swiping the field: online dating in the U.S. . Pew Research Center. https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s.
