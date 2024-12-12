@@ -48,6 +48,16 @@ Traditional platforms often exploit user data for advertising or resale, but Sou
 
 By empowering users with full data control, SoulChain not only aligns with modern privacy expectations but also enhances trust and confidence in the platform.
 
+## Community Governance
+
+SoulChain's governance relies on a DAO structure that ensures users play an active role in shaping the platform's future. Through governance tokens, users can vote on critical decisions such as algorithm changes, feature development, and community initiatives. This decentralized model fosters a sense of ownership and accountability, distinguishing SoulChain from traditional platforms [^20].
+
+Incentives further drive participation. Users can earn governance tokens by contributing to platform improvement, such as submitting feedback, reporting issues, or engaging in discussions. This democratized governance structure ensures that the platform evolves in response to user needs while maintaining transparency and fairness [^21].
+
+## Rust and Solana
+
+SoulChain leverages the Solana blockchain for its high performance and scalability, alongside the Rust programming language for secure, efficient smart contracts. Solana's Proof of History (PoH) consensus mechanism enables thousands of transactions per second, meeting the needs of a growing user base. Meanwhile, Rust's focus on memory safety and performance ensures that the platform remains secure and responsive, even as its user base expands [^22]. This combination of technologies positions SoulChain as a robust, scalable solution for global adoption [^23].
+
 ## References
 
 [^1]: Allied Market Research. Online Dating Services Market Size, share, Competitive Landscape and Trend Analysis Report, by service, by subscription, by Demography: Global Opportunity Analysis and Industry Forecast, 2024-2033 . Allied Market Research. https://www.alliedmarketresearch.com/online-dating-services-market.
@@ -69,3 +79,7 @@ By empowering users with full data control, SoulChain not only aligns with moder
 [^17]: Anon. Data-Hungry dating apps are worse than ever for your privacy . Mozilla Foundation. https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy.
 [^18]: Writer, Staff. 2024. Swipe with Caution: The Privacy Risks of Dating Apps . MartechView. https://martechview.com/the-privacy-risks-of-dating-apps
 [^19]: Atske, Sara, and Sara Atske. 2024. From looking for love to swiping the field: online dating in the U.S. . Pew Research Center. https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s.
+[^20]: Anon. What is a governance token? . Coinbase. https://www.coinbase.com/learn/crypto-basics/what-is-a-governance-token.
+[^21]: Team, PixelPlex, and PixelPlex Team. 2024. How to create DAO Tokenomics (With Real-Life examples by PixelPlex) . PixelPlex. https://pixelplex.io/blog/how-to-create-dao-tokenomics.
+[^22]: Notomoro. 2024. Exploring Solana Proof of History: Revolutionizing transactions. Webisoft. https://blog.webisoft.com/solana-proof-of-history.
+[^23]: Anon. 2015. Fearless Concurrency with Rust \| Rust Blog. https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html.
